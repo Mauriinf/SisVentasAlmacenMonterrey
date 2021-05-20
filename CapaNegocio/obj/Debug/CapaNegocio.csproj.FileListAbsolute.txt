@@ -1,0 +1,28 @@
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaNegocio\obj\Debug\CapaNegocio.pdb

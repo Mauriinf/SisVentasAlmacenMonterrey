@@ -1,0 +1,23 @@
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaDatos\obj\Debug\CapaDatos.pdb

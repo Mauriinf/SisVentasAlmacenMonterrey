@@ -1,0 +1,318 @@
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.ConfiguracionDataBase.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCategoria.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCliente.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCobro.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarConductor.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProducto.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarTrabajador.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarVenta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCalendario.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCobros.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductor.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCategoria.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarClientes.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCobro.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarConductor.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleVentas.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProducto.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarVenta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Cobro.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarCliente_Venta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarTrabajador.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaConductor_Ingreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarConductor_Ingreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Venta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Venta.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.MDIPrincipal.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.pru.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteClientes.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteGeneralVentaCobrosEntreFechas.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngreso2PorID.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoEntreFechas.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoGenetalEntreFechas.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoPorId.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProducto.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajadores.resources
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\SisMonterrey2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.ConfiguracionDataBase.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCliente.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarVenta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCalendario.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCobros.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleVentas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarVenta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Cobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarCliente_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaConductor_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarConductor_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.MDIPrincipal.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.pru.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteDetalleGeneralVentasEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteEstadoDeCuentasPorCobrar.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteGeneralVentaCobrosEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngreso2PorID.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoGenetalEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoPorId.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajadores.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey5\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.ConfiguracionDataBase.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCliente.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProveedor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarVenta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarDeudasVentasClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCalendario.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCobros.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCategoria.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarConductor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleVentas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProveedor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarVenta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Cobro.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarCliente_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaConductor_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarConductor_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso2.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Venta.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.MDIPrincipal.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.pru.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCantidadVentasProductoSemanalMaximo.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCantidadVentasProductoSemanalMonterrey.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteClientes.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteConductores.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteDetalleGeneralVentasEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteEstadoDeCuentasPorCobrar.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteGeneralVentaCobrosEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteImporteContadoCreditoSemanalMaximo.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteImporteContadoCreditoSemanalMonterrey.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngreso2PorID.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoGenetalEntreFechas.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoPorId.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProducto.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedores.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajadores.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.ConfiguracionDataBase.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCategoria.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCliente.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarCobro.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarConductor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarIngreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProducto.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarProveedor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarTrabajador.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAgregarVenta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarDeudasVentasClientes.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCalendario.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCobros.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCategoria.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarClientes.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarCobro.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarConductor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleIngreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarDetalleVentas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarIngreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProducto.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarProveedor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarVenta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Cobro.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarCliente_Venta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEditarTrabajador.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaProducto2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaConductor_Ingreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarConductor_Ingreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Ingreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaEditarProducto_Venta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Ingreso2.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProducto_Venta.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.MDIPrincipal.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.pru.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCantidadVentasProductoSemanalMaximo.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCantidadVentasProductoSemanalMonterrey.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteClientes.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteConductores.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteDetalleGeneralVentasEntreFechas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteEstadoDeCuentasPorCobrar.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteGeneralVentaCobrosEntreFechas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteImporteContadoCreditoSemanalMaximo.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteImporteContadoCreditoSemanalMonterrey.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngreso2PorID.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoEntreFechas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoGenetalEntreFechas.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteIngresoPorId.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProducto.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedores.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajadores.resources
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\proyectos\mis proyectos\SisMonterrey\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -1,0 +1,32 @@
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.exe.config
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.exe
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.exe
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaPresentacion.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaNegocio.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaDatos.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaPresentacion.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaNegocio.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\CapaDatos.pdb
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.Properties.Resources.resources
+C:\Users\mauricio\Documents\Visual Studio 2015\Projects\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.csproj.GenerateResource.Cache
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.exe.config
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.exe
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.pdb
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.exe
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\SisMonterrey.pdb
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaPresentacion.dll
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaNegocio.dll
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaDatos.dll
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaPresentacion.pdb
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaNegocio.pdb
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\CapaDatos.pdb
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.csprojResolveAssemblyReference.cache
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.Properties.Resources.resources
+D:\proyectos\mis proyectos\SisMonterrey\SisMonterrey\obj\Debug\SisMonterrey.csproj.GenerateResource.Cache
